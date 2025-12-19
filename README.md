@@ -117,6 +117,4 @@ Kết hợp các biến ngoại sinh như thời tiết, chi phí đầu vào, c
 
 8. Tác giả
 Sinh viên thực hiện: Lại Huyền Thương
-Sinh viên thực hiện: (Điền tên của em)
-
-Môn học: Phân tích dữ liệu nông nghiệp
+Môn học: Lập trình Python cho nông nghiệp
