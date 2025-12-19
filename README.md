@@ -27,27 +27,26 @@ Date: Biến thời gian chuẩn (ngày đầu tháng)
 
 3. Cấu trúc thư mục
 project/
-├── data/
-│   ├── raw/                # Dữ liệu gốc (Excel)
-│   └── processed/          # Dữ liệu đã làm sạch (CSV)
-│
-├── notebooks/                                                                                                                                                               
-│   ├── 01_data_quality.ipynb                                                                                                                                                
-│   ├── 02_eda.ipynb                                                                                                                                                         
-│   └── 03_forecasting.ipynb                                                                                                                                                 
-│
-├── src/
-│   ├── data_cleaning.py          
-│   ├── data_quality.py
-│   ├── config.py           
+- data/
+      raw/                # Dữ liệu gốc (Excel)
+      processed/          # Dữ liệu đã làm sạch (CSV)
 
-│
-├── reports/
-│   ├── figures/                  
-│   └── tables/                  
-│
-├── README.md
-└── requirements.txt
+- notebooks/                                                                                                                                                               
+      01_data_quality.ipynb                                                                                                                                                
+      02_eda.ipynb                                                                                                                                                         
+      03_forecasting.ipynb                                                                                                                                                 
+
+- src/
+      data_cleaning.py          
+      data_quality.py
+      config.py           
+
+─ reports/
+      figures/                  
+      tables/                  
+
+- README.md
+- requirements.txt
 
 5. Phương pháp nghiên cứu
 
