@@ -31,10 +31,10 @@ project/
 │   ├── raw/                # Dữ liệu gốc (Excel)
 │   └── processed/          # Dữ liệu đã làm sạch (CSV)
 │
-├── notebooks/
-│   ├── 01_data_quality.ipynb     
-│   ├── 02_eda.ipynb              
-│   └── 03_forecasting.ipynb      
+├── notebooks/                                                                                                                                                               
+│   ├── 01_data_quality.ipynb                                                                                                                                                
+│   ├── 02_eda.ipynb                                                                                                                                                         
+│   └── 03_forecasting.ipynb                                                                                                                                                 
 │
 ├── src/
 │   ├── data_cleaning.py          
