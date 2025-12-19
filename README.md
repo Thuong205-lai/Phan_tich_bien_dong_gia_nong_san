@@ -41,7 +41,7 @@ project/
       data_quality.py
       config.py           
 
-─ reports/
+- reports/
       figures/                  
       tables/                  
 
