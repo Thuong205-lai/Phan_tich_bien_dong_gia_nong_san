@@ -1,0 +1,19 @@
+{
+  "rows": 36,
+  "n_products": 1,
+  "date_min": "2018-01-01",
+  "date_max": "2020-12-01",
+  "missing_rate_by_col": {
+    "Thang": 0.0,
+    "Nam": 0.0,
+    "LoaiNongSan": 0.0,
+    "Gia": 0.1111,
+    "GhiChu": 1.0,
+    "Date": 0.0,
+    "Gia_clean": 0.0
+  },
+  "invalid_price_rate_raw": 0.1111,
+  "outliers_count_by_product": {
+    "Gạo": 0
+  }
+}
